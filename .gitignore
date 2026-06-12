@@ -1,0 +1,19 @@
+# 色々
+__pycache__
+venv
+.claude/
+.DS_Store
+local_note
+
+# input, output（dev/ 共有のジャンクション）
+data
+models
+plot
+generation_plot
+output
+
+# それぞれの端末のコード
+main_virtual.py
+main_mac.py
+main_desktop.py
+main_lab.py

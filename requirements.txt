@@ -1,0 +1,9 @@
+numpy
+tensorflow
+scipy
+scikit-learn
+pandas
+matplotlib
+keras
+openpyxl
+deap
