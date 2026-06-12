@@ -6,9 +6,13 @@ import tensorflow as tf
 
 random.seed(10)
 
-# データ・モデルのベースディレクトリ（環境変数で上書き可能）
-DATA_DIR = os.environ.get("TAE_DATA_DIR", r"C:\Users\kensei\dev\tae\data")
-MODELS_DIR = os.environ.get("TAE_MODELS_DIR", r"C:\Users\kensei\dev\tae\models")
+# データ・モデルのベースディレクトリ。
+# lib/preprocess.py を基準にリポジトリの 1 つ上 (tae/) 直下の data / models を指す。
+# __file__ から導出するので Windows / WSL のどちらでも同じ実体を解決できる。
+# 環境変数 TAE_DATA_DIR / TAE_MODELS_DIR で明示的に上書き可能。
+_TAE_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+DATA_DIR = os.environ.get("TAE_DATA_DIR", os.path.join(_TAE_ROOT, "data"))
+MODELS_DIR = os.environ.get("TAE_MODELS_DIR", os.path.join(_TAE_ROOT, "models"))
 
 # データ前処理  ################################################
 def preprocess(data_df, norm=False):
