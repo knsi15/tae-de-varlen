@@ -1,8 +1,3 @@
-"""
-result_saver.py - 結果保存モジュール
-Excel保存、詳細ログ、世代ログ、プロット生成などの結果保存処理を提供する。
-"""
-
 import numpy as np
 import pandas as pd
 import os
@@ -12,14 +7,7 @@ import matplotlib.pyplot as plt
 # 日本語フォント設定
 plt.rcParams['font.family'] = 'DejaVu Sans'
 
-
 def create_output_dirs(date_str, output_base_dir="output"):
-    """
-    日付ごとの出力フォルダを作成する
-    output/YYYYMMDD/
-    output/YYYYMMDD/plot
-    output/YYYYMMDD/generation_plot
-    """
     date_dir = os.path.join(output_base_dir, date_str)
     if not os.path.exists(date_dir):
         os.makedirs(date_dir)
@@ -34,12 +22,7 @@ def create_output_dirs(date_str, output_base_dir="output"):
 
     return date_dir, plot_dir, gen_plot_dir
 
-
 def get_unique_dir_name(base_dir, date_str):
-    """
-    指定された日付文字列に対応するディレクトリが既に存在する場合、
-    _1, _2, ... のようにサフィックスを付けて一意な名前を生成する。
-    """
     original_path = os.path.join(base_dir, date_str)
     if not os.path.exists(original_path):
         return date_str
@@ -52,15 +35,7 @@ def get_unique_dir_name(base_dir, date_str):
             return new_date_str
         counter += 1
 
-
 def backup_code(target_dir, source_file=None):
-    """
-    実行コード(自分自身)を保存先にコピーする
-
-    Args:
-        target_dir: コピー先ディレクトリ
-        source_file: コピー元ファイルパス (デフォルト: 呼び出し元の__file__)
-    """
     if source_file is None:
         import inspect
         frame = inspect.stack()[1]
@@ -75,7 +50,6 @@ def backup_code(target_dir, source_file=None):
         print(f"コード記述のバックアップを作成しました: {dst_path}")
     except Exception as e:
         print(f"バックアップ作成エラー: {e}")
-
 
 def save_result_to_excel(
     filename: str,
@@ -119,7 +93,7 @@ def save_result_to_excel(
     }
 
     if output_dir:
-        filename = os.path.join(output_dir, "results_lab.xlsx")
+        filename = os.path.join(output_dir, "results.xlsx")
 
     file_exists = os.path.exists(filename)
     if file_exists:
@@ -129,11 +103,7 @@ def save_result_to_excel(
         df = pd.DataFrame([result_row])
     df.to_excel(filename, index=False)
 
-
 def save_detailed_results(detailed_results, output_dir, dataset, model_type, strategy, func, lim):
-    """
-    サンプルごとの詳細な実行結果をログ保存する
-    """
     if not detailed_results:
         return
 
@@ -144,11 +114,7 @@ def save_detailed_results(detailed_results, output_dir, dataset, model_type, str
     df.to_excel(filepath, index=False)
     print(f"詳細ログ保存完了: {filepath}")
 
-
 def save_generation_log(generation_logs, output_dir, dataset, model_type, strategy, func, lim):
-    """
-    世代ごとの評価値を保存する
-    """
     if not generation_logs:
         return
 
@@ -159,12 +125,7 @@ def save_generation_log(generation_logs, output_dir, dataset, model_type, strate
     df.to_csv(filepath, index=False)
     print(f"世代ログ保存完了: {filepath}")
 
-
 def plot_generation_history(generation_logs, output_dir, dataset, model_type, strategy, func, lim, maxiter=50):
-    """
-    世代ごとの信頼度推移をプロットする
-    縦軸: 信頼度(0-1), 横軸: 世代(0-maxiter)
-    """
     if not generation_logs:
         return
 
@@ -200,7 +161,6 @@ def plot_generation_history(generation_logs, output_dir, dataset, model_type, st
 
     print(f"世代推移プロット保存完了: {output_dir}")
 
-
 def align_to_length(series_array: np.ndarray, target_length: int) -> np.ndarray:
     array_1d = np.asarray(series_array, dtype=np.float32).reshape(-1)
     current_length = array_1d.shape[0]
@@ -210,7 +170,6 @@ def align_to_length(series_array: np.ndarray, target_length: int) -> np.ndarray:
         pad_width = target_length - current_length
         return np.pad(array_1d, (0, pad_width), mode='edge')
     return array_1d[:target_length]
-
 
 def create_comparison_plot(dataset, model_type, strategy, func, index, org_data, ae_data, model, current_date, lim, true_label=None, output_dir=None):
     try:
