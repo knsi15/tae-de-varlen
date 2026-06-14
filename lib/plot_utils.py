@@ -1,16 +1,9 @@
-"""
-プロット関連のユーティリティモジュール。
-- 元波形と摂動波形の比較プロット
-- 世代ごとの信頼度推移プロット
-"""
-
 import os
 import numpy as np
 import matplotlib.pyplot as plt
 
 # 日本語フォント設定
 plt.rcParams['font.family'] = 'DejaVu Sans'
-
 
 def align_to_length(series_array: np.ndarray, target_length: int) -> np.ndarray:
     """
@@ -25,7 +18,6 @@ def align_to_length(series_array: np.ndarray, target_length: int) -> np.ndarray:
         pad_width = target_length - current_length
         return np.pad(array_1d, (0, pad_width), mode='edge')
     return array_1d[:target_length]
-
 
 def create_comparison_plot(dataset, model_type, strategy, func, index, org_data, ae_data,
                            model, current_date, lim, true_label=None, output_dir=None):
@@ -119,7 +111,6 @@ def create_comparison_plot(dataset, model_type, strategy, func, index, org_data,
     except Exception as e:
         print(f"画像生成エラー (Sample {index+1}): {str(e)}")
         plt.close()
-
 
 def plot_generation_history(generation_logs, output_dir, dataset, model_type, strategy, func,
                             lim, maxiter=50):
