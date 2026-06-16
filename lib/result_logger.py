@@ -190,8 +190,9 @@ def create_comparison_plot(dataset, model_type, strategy, func, index, org_data,
             org_processed = org_aligned.reshape(1, -1, 1).astype(np.float32)
             ae_processed = ae_aligned.reshape(1, -1, 1).astype(np.float32)
 
-            org_pred = model.predict(org_processed, verbose=0)
-            ae_pred = model.predict(ae_processed, verbose=0)
+            # model.predict は XLA コンパイル経路で autotuner 失敗し得るため eager 呼び出しを使う
+            org_pred = model(org_processed, training=False).numpy()
+            ae_pred = model(ae_processed, training=False).numpy()
 
             org_class = np.argmax(org_pred[0])
             ae_class = np.argmax(ae_pred[0])
