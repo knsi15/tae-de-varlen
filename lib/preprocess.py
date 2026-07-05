@@ -11,8 +11,20 @@ random.seed(10)
 # __file__ から導出するので Windows / WSL のどちらでも同じ実体を解決できる。
 # 環境変数 TAE_DATA_DIR / TAE_MODELS_DIR で明示的に上書き可能。
 _TAE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.environ.get("TAE_DATA_DIR", os.path.join(_TAE_ROOT, "data"))
-MODELS_DIR = os.environ.get("TAE_MODELS_DIR", os.path.join(_TAE_ROOT, "models"))
+_TAE_PARENT = os.path.dirname(_TAE_ROOT)
+
+def _resolve_dir(env_key, name):
+    # 1) 環境変数があれば最優先 2) リポジトリ直下に存在すればそれ 3) 無ければ一つ上（共有配置）
+    override = os.environ.get(env_key)
+    if override:
+        return override
+    local = os.path.join(_TAE_ROOT, name)
+    if os.path.isdir(local):
+        return local
+    return os.path.join(_TAE_PARENT, name)
+
+DATA_DIR = _resolve_dir("TAE_DATA_DIR", "data")
+MODELS_DIR = _resolve_dir("TAE_MODELS_DIR", "models")
 
 # データ前処理  ################################################
 def preprocess(data_df, norm=False):
