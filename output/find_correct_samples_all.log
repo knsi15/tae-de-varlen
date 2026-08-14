@@ -1,0 +1,740 @@
+2026-08-05 10:32:23.992527: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-08-05 10:32:29.865713: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-08-05 10:32:42.075018: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+C:\Users\yamadakensei\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\optimizers\base_optimizer.py:86: UserWarning: Argument `decay` is no longer supported and will be ignored.
+  warnings.warn(
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:tensorflow:From C:\Users\yamadakensei\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\yamadakensei\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+ëŒè€ÉfÅ[É^ÉZÉbÉgêî: 85
+(1/85) [Adiac/fcn] ê≥â 327/391 (acc=83.63%) -> ÉTÉìÉvÉäÉìÉO 10åè: [11, 117, 127, 136, 240, 246, 265, 277, 300, 328]
+(1/85) [Adiac/resnet] ê≥â 330/391 (acc=84.40%) -> ÉTÉìÉvÉäÉìÉO 10åè: [11, 53, 100, 114, 122, 164, 196, 261, 369, 374]
+(2/85) [ArrowHead/fcn] ê≥â 148/175 (acc=84.57%) -> ÉTÉìÉvÉäÉìÉO 10åè: [16, 19, 30, 46, 69, 99, 104, 128, 149, 165]
+(2/85) [ArrowHead/resnet] ê≥â 145/175 (acc=82.86%) -> ÉTÉìÉvÉäÉìÉO 10åè: [24, 25, 36, 58, 93, 109, 134, 143, 152, 166]
+(3/85) [Beef/fcn] ê≥â 22/30 (acc=73.33%) -> ÉTÉìÉvÉäÉìÉO 10åè: [1, 2, 4, 5, 6, 12, 17, 19, 21, 26]
+(3/85) [Beef/resnet] ê≥â 22/30 (acc=73.33%) -> ÉTÉìÉvÉäÉìÉO 10åè: [1, 2, 4, 5, 6, 10, 13, 16, 18, 25]
+(4/85) [BeetleFly/fcn] ê≥â 19/20 (acc=95.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 1, 3, 5, 8, 11, 13, 16, 17, 18]
+(4/85) [BeetleFly/resnet] ê≥â 17/20 (acc=85.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 1, 2, 5, 8, 9, 13, 15, 16, 17]
+(5/85) [BirdChicken/fcn] ê≥â 18/20 (acc=90.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 1, 2, 3, 5, 9, 12, 14, 16, 18]
+(5/85) [BirdChicken/resnet] ê≥â 18/20 (acc=90.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 1, 2, 3, 7, 10, 13, 15, 17, 18]
+(6/85) [CBF/fcn] ê≥â 896/900 (acc=99.56%) -> ÉTÉìÉvÉäÉìÉO 10åè: [39, 136, 209, 292, 302, 335, 444, 529, 715, 726]
+(6/85) [CBF/resnet] ê≥â 893/900 (acc=99.22%) -> ÉTÉìÉvÉäÉìÉO 10åè: [39, 136, 209, 292, 302, 335, 444, 530, 715, 727]
+(7/85) [Car/fcn] ê≥â 54/60 (acc=90.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [4, 6, 15, 20, 22, 36, 48, 53, 54, 58]
+(7/85) [Car/resnet] ê≥â 57/60 (acc=95.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 5, 13, 15, 29, 32, 33, 37, 48, 58]
+(8/85) [ChlorineConcentration/fcn] ê≥â 3148/3840 (acc=81.98%) -> ÉTÉìÉvÉäÉìÉO 10åè: [1193, 1519, 1527, 1705, 2100, 2404, 2937, 3230, 3621, 3659]
+(8/85) [ChlorineConcentration/resnet] ê≥â 3268/3840 (acc=85.10%) -> ÉTÉìÉvÉäÉìÉO 10åè: [153, 239, 349, 491, 551, 1559, 1634, 1711, 3449, 3626]
+(9/85) [CinCECGTorso/fcn] ê≥â 1145/1380 (acc=82.97%) -> ÉTÉìÉvÉäÉìÉO 10åè: [134, 208, 264, 395, 613, 620, 798, 890, 976, 1208]
+(9/85) [CinCECGTorso/resnet] ê≥â 1161/1380 (acc=84.13%) -> ÉTÉìÉvÉäÉìÉO 10åè: [29, 285, 385, 634, 643, 695, 812, 855, 907, 1254]
+(10/85) [Coffee/fcn] ê≥â 28/28 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 8, 9, 11, 12, 13, 17, 21, 22, 25]
+(10/85) [Coffee/resnet] ê≥â 28/28 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 8, 9, 11, 12, 13, 17, 21, 22, 25]
+(11/85) [Computers/fcn] ê≥â 201/250 (acc=80.40%) -> ÉTÉìÉvÉäÉìÉO 10åè: [16, 32, 55, 83, 123, 147, 160, 202, 218, 224]
+(11/85) [Computers/resnet] ê≥â 202/250 (acc=80.80%) -> ÉTÉìÉvÉäÉìÉO 10åè: [17, 33, 53, 81, 118, 142, 199, 201, 216, 231]
+(12/85) [CricketX/fcn] ê≥â 314/390 (acc=80.51%) -> ÉTÉìÉvÉäÉìÉO 10åè: [10, 30, 42, 68, 163, 251, 274, 276, 297, 311]
+(12/85) [CricketX/resnet] ê≥â 307/390 (acc=78.72%) -> ÉTÉìÉvÉäÉìÉO 10åè: [9, 42, 77, 80, 115, 156, 186, 198, 211, 226]
+(13/85) [CricketY/fcn] ê≥â 301/390 (acc=77.18%) -> ÉTÉìÉvÉäÉìÉO 10åè: [11, 39, 75, 148, 191, 201, 218, 247, 286, 376]
+(13/85) [CricketY/resnet] ê≥â 320/390 (acc=82.05%) -> ÉTÉìÉvÉäÉìÉO 10åè: [10, 28, 72, 127, 166, 192, 217, 262, 271, 288]
+(14/85) [CricketZ/fcn] ê≥â 312/390 (acc=80.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [16, 38, 68, 83, 86, 90, 128, 241, 292, 331]
+(14/85) [CricketZ/resnet] ê≥â 317/390 (acc=81.28%) -> ÉTÉìÉvÉäÉìÉO 10åè: [12, 33, 85, 97, 132, 149, 218, 229, 312, 342]
+(15/85) [DiatomSizeReduction/fcn] ê≥â 92/306 (acc=30.07%) -> ÉTÉìÉvÉäÉìÉO 10åè: [1, 39, 77, 88, 139, 140, 151, 188, 239, 251]
+(15/85) [DiatomSizeReduction/resnet] ê≥â 168/306 (acc=54.90%) -> ÉTÉìÉvÉäÉìÉO 10åè: [58, 59, 89, 103, 191, 215, 253, 259, 298, 302]
+(16/85) [DistalPhalanxOutlineAgeGroup/fcn] ê≥â 102/139 (acc=73.38%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 13, 44, 55, 57, 63, 73, 96, 103, 127]
+(16/85) [DistalPhalanxOutlineAgeGroup/resnet] ê≥â 105/139 (acc=75.54%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 11, 42, 66, 71, 81, 96, 97, 128, 138]
+(17/85) [DistalPhalanxOutlineCorrect/fcn] ê≥â 207/276 (acc=75.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [14, 22, 26, 110, 138, 143, 190, 206, 221, 226]
+(17/85) [DistalPhalanxOutlineCorrect/resnet] ê≥â 216/276 (acc=78.26%) -> ÉTÉìÉvÉäÉìÉO 10åè: [19, 101, 145, 183, 184, 227, 233, 258, 262, 272]
+(18/85) [DistalPhalanxTW/fcn] ê≥â 94/139 (acc=67.63%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 12, 26, 31, 46, 47, 51, 64, 80, 95]
+(18/85) [DistalPhalanxTW/resnet] ê≥â 95/139 (acc=68.35%) -> ÉTÉìÉvÉäÉìÉO 10åè: [2, 14, 30, 37, 51, 53, 56, 87, 95, 96]
+(19/85) [ECG200/fcn] ê≥â 90/100 (acc=90.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 12, 24, 28, 43, 44, 48, 62, 72, 77]
+(19/85) [ECG200/resnet] ê≥â 89/100 (acc=89.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 12, 14, 20, 24, 32, 46, 51, 59, 70]
+(20/85) [ECG5000/fcn] ê≥â 4234/4500 (acc=94.09%) -> ÉTÉìÉvÉäÉìÉO 10åè: [393, 594, 599, 1175, 1511, 1580, 1749, 2239, 3163, 4092]
+(20/85) [ECG5000/resnet] ê≥â 4206/4500 (acc=93.47%) -> ÉTÉìÉvÉäÉìÉO 10åè: [495, 512, 677, 1837, 2507, 2593, 3976, 3977, 4307, 4428]
+(21/85) [ECGFiveDays/fcn] ê≥â 845/861 (acc=98.14%) -> ÉTÉìÉvÉäÉìÉO 10åè: [30, 64, 67, 220, 252, 485, 500, 634, 752, 812]
+(21/85) [ECGFiveDays/resnet] ê≥â 814/861 (acc=94.54%) -> ÉTÉìÉvÉäÉìÉO 10åè: [208, 238, 259, 305, 309, 441, 466, 569, 623, 847]
+(22/85) [Earthquakes/fcn] ê≥â 102/139 (acc=73.38%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 13, 38, 55, 59, 64, 66, 86, 91, 119]
+(22/85) [Earthquakes/resnet] ê≥â 103/139 (acc=74.10%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 12, 37, 52, 54, 58, 61, 83, 89, 117]
+(23/85) [ElectricDevices/fcn] ê≥â 5371/7711 (acc=69.65%) -> ÉTÉìÉvÉäÉìÉO 10åè: [697, 784, 978, 1189, 2200, 2764, 5006, 5753, 6348, 6639]
+(23/85) [ElectricDevices/resnet] ê≥â 5562/7711 (acc=72.13%) -> ÉTÉìÉvÉäÉìÉO 10åè: [1241, 2795, 3380, 3390, 3409, 4106, 4765, 5434, 5790, 5881]
+(24/85) [FaceAll/fcn] ê≥â 1608/1690 (acc=95.15%) -> ÉTÉìÉvÉäÉìÉO 10åè: [29, 99, 185, 686, 854, 918, 927, 1204, 1432, 1472]
+(24/85) [FaceAll/resnet] ê≥â 1395/1690 (acc=82.54%) -> ÉTÉìÉvÉäÉìÉO 10åè: [49, 67, 101, 425, 569, 607, 712, 860, 1281, 1677]
+(25/85) [FaceFour/fcn] ê≥â 81/88 (acc=92.05%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 4, 10, 12, 19, 23, 30, 32, 33, 76]
+(25/85) [FaceFour/resnet] ê≥â 84/88 (acc=95.45%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 4, 10, 12, 19, 23, 60, 68, 73, 76]
+(26/85) [FacesUCR/fcn] ê≥â 1938/2050 (acc=94.54%) -> ÉTÉìÉvÉäÉìÉO 10åè: [609, 901, 950, 956, 977, 1302, 1306, 1547, 1687, 1855]
+(26/85) [FacesUCR/resnet] ê≥â 1959/2050 (acc=95.56%) -> ÉTÉìÉvÉäÉìÉO 10åè: [135, 252, 402, 472, 596, 985, 1194, 1240, 1543, 2023]
+(27/85) [FiftyWords/fcn] ê≥â 213/455 (acc=46.81%) -> ÉTÉìÉvÉäÉìÉO 10åè: [15, 27, 142, 172, 192, 246, 264, 321, 410, 422]
+(27/85) [FiftyWords/resnet] ê≥â 223/455 (acc=49.01%) -> ÉTÉìÉvÉäÉìÉO 10åè: [20, 148, 187, 230, 247, 257, 307, 369, 380, 451]
+(28/85) [Fish/fcn] ê≥â 169/175 (acc=96.57%) -> ÉTÉìÉvÉäÉìÉO 10åè: [31, 32, 54, 63, 111, 125, 144, 149, 168, 171]
+(28/85) [Fish/resnet] ê≥â 173/175 (acc=98.86%) -> ÉTÉìÉvÉäÉìÉO 10åè: [15, 42, 43, 61, 92, 110, 115, 116, 139, 164]
+(29/85) [FordA/fcn] ê≥â 1210/1320 (acc=91.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [53, 107, 115, 247, 329, 463, 703, 1025, 1135, 1294]
+(29/85) [FordA/resnet] ê≥â 1236/1320 (acc=93.64%) -> ÉTÉìÉvÉäÉìÉO 10åè: [118, 184, 309, 450, 539, 670, 809, 1129, 1152, 1284]
+(30/85) [FordB/fcn] ê≥â 637/810 (acc=78.64%) -> ÉTÉìÉvÉäÉìÉO 10åè: [40, 41, 135, 288, 310, 327, 637, 642, 665, 798]
+(30/85) [FordB/resnet] ê≥â 667/810 (acc=82.35%) -> ÉTÉìÉvÉäÉìÉO 10åè: [109, 191, 284, 441, 478, 543, 676, 769, 770, 802]
+(31/85) [GunPoint/fcn] ê≥â 150/150 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [18, 31, 64, 68, 73, 76, 78, 82, 118, 141]
+(31/85) [GunPoint/resnet] ê≥â 149/150 (acc=99.33%) -> ÉTÉìÉvÉäÉìÉO 10åè: [18, 31, 65, 69, 74, 77, 79, 83, 118, 141]
+(32/85) [Ham/fcn] ê≥â 72/105 (acc=68.57%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 4, 10, 12, 18, 33, 41, 65, 76, 94]
+(32/85) [Ham/resnet] ê≥â 76/105 (acc=72.38%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 5, 12, 35, 42, 56, 59, 63, 67, 91]
+(33/85) [HandOutlines/fcn] ê≥â 326/370 (acc=88.11%) -> ÉTÉìÉvÉäÉìÉO 10åè: [10, 112, 120, 130, 226, 231, 249, 271, 286, 312]
+(33/85) [HandOutlines/resnet] ê≥â 345/370 (acc=93.24%) -> ÉTÉìÉvÉäÉìÉO 10åè: [127, 170, 209, 224, 236, 241, 281, 342, 343, 359]
+(34/85) [Haptics/fcn] ê≥â 147/308 (acc=47.73%) -> ÉTÉìÉvÉäÉìÉO 10åè: [18, 24, 41, 66, 101, 149, 161, 217, 255, 282]
+(34/85) [Haptics/resnet] ê≥â 158/308 (acc=51.30%) -> ÉTÉìÉvÉäÉìÉO 10åè: [56, 84, 167, 178, 181, 188, 243, 252, 266, 304]WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2026-08-05 10:38:55.653614: W external/local_xla/xla/tsl/framework/bfc_allocator.cc:501] Allocator (mklcpu) ran out of memory trying to allocate 4.02GiB (rounded to 4318035968)requested by op AddV2
+If the cause is memory fragmentation maybe the environment variable 'TF_GPU_ALLOCATOR=cuda_malloc_async' will improve the situation. 
+Current allocation summary follows.
+Current allocation summary follows.
+2026-08-05 10:38:55.657045: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1058] BFCAllocator dump for mklcpu
+2026-08-05 10:38:55.657840: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (256): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657859: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (512): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657866: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (1024): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657872: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (2048): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657880: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (4096): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657905: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (8192): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657913: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (16384): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657930: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (32768): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657938: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (65536): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657944: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (131072): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657958: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (262144): 	Total Chunks: 2, Chunks in use: 1. 768.0KiB allocated for chunks. 384.0KiB in use in bin. 384.0KiB client-requested in use in bin.
+2026-08-05 10:38:55.657965: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (524288): 	Total Chunks: 2, Chunks in use: 1. 1.25MiB allocated for chunks. 768.0KiB in use in bin. 640.0KiB client-requested in use in bin.
+2026-08-05 10:38:55.657971: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (1048576): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657977: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (2097152): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657989: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (4194304): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657994: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (8388608): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.657999: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (16777216): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.658005: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (33554432): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.658014: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (67108864): 	Total Chunks: 2, Chunks in use: 0. 128.00MiB allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.658034: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (134217728): 	Total Chunks: 1, Chunks in use: 0. 128.00MiB allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:38:55.658040: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (268435456): 	Total Chunks: 16, Chunks in use: 8. 63.75GiB allocated for chunks. 44.24GiB in use in bin. 44.24GiB client-requested in use in bin.
+2026-08-05 10:38:55.658403: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1081] Bin for 4.02GiB was 256.00MiB, Chunk State: 
+2026-08-05 10:38:55.658758: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 256.00MiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:38:55.658787: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 512.00MiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:38:55.658795: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 1.00GiB | Requested Size: 65.92MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:38:55.658801: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 2.00GiB | Requested Size: 131.84MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:38:55.658972: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 3.85GiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20, prev:   Size: 4.02GiB | Requested Size: 4.02GiB | in_use: 1 | bin_num: -1
+2026-08-05 10:38:55.658985: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 3.94GiB | Requested Size: 320.0KiB | in_use: 0 | bin_num: 20, prev:   Size: 4.02GiB | Requested Size: 4.02GiB | in_use: 1 | bin_num: -1
+2026-08-05 10:38:55.658990: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 3.98GiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20, prev:   Size: 4.02GiB | Requested Size: 4.02GiB | in_use: 1 | bin_num: -1
+2026-08-05 10:38:55.658995: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 4.00GiB | Requested Size: 131.84MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:38:55.659003: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 2097152
+2026-08-05 10:38:55.660494: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d72e02e080 of size 786432 next 21
+2026-08-05 10:38:55.660734: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d72e0ee080 of size 524288 next 39
+2026-08-05 10:38:55.660747: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d72e16e080 of size 393216 next 23
+2026-08-05 10:38:55.660753: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d72e1ce080 of size 393216 next 18446744073709551615
+2026-08-05 10:38:55.660761: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 67108864
+2026-08-05 10:38:55.660766: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d72e239080 of size 67108864 next 18446744073709551615
+2026-08-05 10:38:55.660770: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 67108864
+2026-08-05 10:38:55.660774: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d73245c080 of size 67108864 next 18446744073709551615
+2026-08-05 10:38:55.660778: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 134217728
+2026-08-05 10:38:55.660782: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d73667d080 of size 134217728 next 18446744073709551615
+2026-08-05 10:38:55.660786: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 268435456
+2026-08-05 10:38:55.660789: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d73ea9c080 of size 268435456 next 18446744073709551615
+2026-08-05 10:38:55.660795: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 536870912
+2026-08-05 10:38:55.660800: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d750488080 of size 536870912 next 18446744073709551615
+2026-08-05 10:38:55.660804: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 1073741824
+2026-08-05 10:38:55.660808: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d78000e080 of size 1073741824 next 18446744073709551615
+2026-08-05 10:38:55.660812: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 2147483648
+2026-08-05 10:38:55.660816: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d7c001f080 of size 2147483648 next 18446744073709551615
+2026-08-05 10:38:55.660820: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 4294967296
+2026-08-05 10:38:55.660823: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d84003b080 of size 4294967296 next 18446744073709551615
+2026-08-05 10:38:55.660827: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 8589934592
+2026-08-05 10:38:55.660831: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d948059080 of size 4318035968 next 53
+2026-08-05 10:38:55.660835: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1da49659080 of size 4271898624 next 18446744073709551615
+2026-08-05 10:38:55.660839: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 17179869184
+2026-08-05 10:38:55.660842: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1db5807b080 of size 4318035968 next 11
+2026-08-05 10:38:55.660846: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1dc5967b080 of size 4318035968 next 33
+2026-08-05 10:38:55.660849: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1dd5ac7b080 of size 4318035968 next 19
+2026-08-05 10:38:55.660853: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1de5c27b080 of size 4225761280 next 18446744073709551615
+2026-08-05 10:38:55.660857: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 34357641216
+2026-08-05 10:38:55.660861: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1df78096080 of size 8636071936 next 35
+2026-08-05 10:38:55.660864: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1e17ac96080 of size 8636071936 next 36
+2026-08-05 10:38:55.660868: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1e37d896080 of size 8636071936 next 28
+2026-08-05 10:38:55.660872: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1e580496080 of size 4318035968 next 7
+2026-08-05 10:38:55.660875: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1e681a96080 of size 4131389440 next 18446744073709551615
+2026-08-05 10:38:55.660879: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1119]      Summary of in-use Chunks by size: 
+2026-08-05 10:38:55.661101: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 1 Chunks of size 393216 totalling 384.0KiB
+2026-08-05 10:38:55.661111: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 1 Chunks of size 786432 totalling 768.0KiB
+2026-08-05 10:38:55.661117: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 5 Chunks of size 4318035968 totalling 20.11GiB
+2026-08-05 10:38:55.661121: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 3 Chunks of size 8636071936 totalling 24.13GiB
+2026-08-05 10:38:55.661125: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1126] Sum Total of in-use chunks: 44.24GiB
+2026-08-05 10:38:55.661290: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1128] Total bytes in pool: 68719476736 memory_limit_: 68719476736 available bytes: 0 curr_region_allocation_bytes_: 68719476736
+2026-08-05 10:38:55.662108: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1133] Stats: 
+Limit:                     68719476736
+InUse:                     47499575296
+MaxInUse:                  47499575296
+NumAllocs:                        6469
+MaxAllocSize:               8636071936
+Reserved:                            0
+PeakReserved:                        0
+LargestFreeBlock:                    0
+
+2026-08-05 10:38:55.662668: W external/local_xla/xla/tsl/framework/bfc_allocator.cc:512] *___________*******______*******************______********************************************______
+2026-08-05 10:38:55.668707: W tensorflow/core/framework/op_kernel.cc:1857] OP_REQUIRES failed at cwise_ops_common.cc:82 : RESOURCE_EXHAUSTED: OOM when allocating tensor with shape[8236,1024,128] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu
+2026-08-05 10:38:55.672822: I tensorflow/core/framework/local_rendezvous.cc:407] Local rendezvous is aborting with status: RESOURCE_EXHAUSTED: OOM when allocating tensor with shape[8236,1024,128] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu
+
+(35/85) [Herring/fcn] ê≥â 33/64 (acc=51.56%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 16, 17, 21, 25, 28, 30, 36, 48, 62]
+(35/85) [Herring/resnet] ê≥â 34/64 (acc=53.12%) -> ÉTÉìÉvÉäÉìÉO 10åè: [17, 18, 25, 31, 35, 37, 43, 45, 48, 61]
+(36/85) [InlineSkate/fcn] ê≥â 186/550 (acc=33.82%) -> ÉTÉìÉvÉäÉìÉO 10åè: [66, 121, 311, 312, 358, 376, 448, 486, 494, 513]
+(36/85) [InlineSkate/resnet] ê≥â 215/550 (acc=39.09%) -> ÉTÉìÉvÉäÉìÉO 10åè: [45, 185, 292, 363, 366, 421, 438, 495, 517, 543]
+(37/85) [InsectWingbeatSound/fcn] ê≥â 776/1980 (acc=39.19%) -> ÉTÉìÉvÉäÉìÉO 10åè: [288, 517, 796, 901, 1086, 1321, 1382, 1814, 1880, 1962]
+(37/85) [InsectWingbeatSound/resnet] ê≥â 946/1980 (acc=47.78%) -> ÉTÉìÉvÉäÉìÉO 10åè: [70, 131, 163, 701, 845, 959, 1095, 1635, 1700, 1972]
+(38/85) [ItalyPowerDemand/fcn] ê≥â 987/1029 (acc=95.92%) -> ÉTÉìÉvÉäÉìÉO 10åè: [61, 93, 112, 147, 322, 412, 515, 552, 888, 940]
+(38/85) [ItalyPowerDemand/resnet] ê≥â 987/1029 (acc=95.92%) -> ÉTÉìÉvÉäÉìÉO 10åè: [60, 91, 111, 145, 321, 412, 515, 552, 886, 939]
+(39/85) [LargeKitchenAppliances/fcn] ê≥â 335/375 (acc=89.33%) -> ÉTÉìÉvÉäÉìÉO 10åè: [29, 62, 82, 129, 203, 204, 218, 226, 291, 311]
+(39/85) [LargeKitchenAppliances/resnet] ê≥â 336/375 (acc=89.60%) -> ÉTÉìÉvÉäÉìÉO 10åè: [51, 82, 133, 135, 165, 267, 315, 321, 336, 340]
+(40/85) [Lightning2/fcn] ê≥â 46/61 (acc=75.41%) -> ÉTÉìÉvÉäÉìÉO 10åè: [6, 7, 12, 17, 32, 35, 46, 51, 53, 58]
+(40/85) [Lightning2/resnet] ê≥â 46/61 (acc=75.41%) -> ÉTÉìÉvÉäÉìÉO 10åè: [5, 7, 12, 17, 33, 34, 46, 51, 53, 58]
+(41/85) [Lightning7/fcn] ê≥â 60/73 (acc=82.19%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 7, 15, 16, 41, 45, 57, 60, 66, 69]
+(41/85) [Lightning7/resnet] ê≥â 61/73 (acc=83.56%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 7, 14, 15, 36, 41, 50, 57, 60, 66]
+(42/85) [Mallat/fcn] ê≥â 2264/2345 (acc=96.55%) -> ÉTÉìÉvÉäÉìÉO 10åè: [56, 114, 363, 433, 876, 1328, 1616, 1720, 1824, 2150]
+(42/85) [Mallat/resnet] ê≥â 2280/2345 (acc=97.23%) -> ÉTÉìÉvÉäÉìÉO 10åè: [258, 627, 785, 901, 1581, 1905, 2022, 2063, 2229, 2308]
+(43/85) [Meat/fcn] ê≥â 27/60 (acc=45.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [26, 41, 42, 44, 45, 46, 49, 50, 54, 57]
+(43/85) [Meat/resnet] ê≥â 57/60 (acc=95.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 7, 14, 15, 29, 32, 34, 37, 48, 58]
+(44/85) [MedicalImages/fcn] ê≥â 606/760 (acc=79.74%) -> ÉTÉìÉvÉäÉìÉO 10åè: [15, 105, 107, 119, 172, 237, 367, 557, 715, 734]
+(44/85) [MedicalImages/resnet] ê≥â 573/760 (acc=75.39%) -> ÉTÉìÉvÉäÉìÉO 10åè: [39, 97, 110, 172, 248, 406, 419, 530, 681, 721]
+(45/85) [MiddlePhalanxOutlineAgeGroup/fcn] ê≥â 86/154 (acc=55.84%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 8, 17, 23, 37, 46, 104, 129, 134, 142]
+(45/85) [MiddlePhalanxOutlineAgeGroup/resnet] ê≥â 90/154 (acc=58.44%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 17, 39, 50, 74, 75, 82, 97, 115, 124]
+(46/85) [MiddlePhalanxOutlineCorrect/fcn] ê≥â 238/291 (acc=81.79%) -> ÉTÉìÉvÉäÉìÉO 10åè: [8, 11, 17, 140, 144, 155, 212, 259, 271, 272]
+(46/85) [MiddlePhalanxOutlineCorrect/resnet] ê≥â 242/291 (acc=83.16%) -> ÉTÉìÉvÉäÉìÉO 10åè: [6, 9, 24, 137, 185, 187, 232, 241, 252, 286]
+(47/85) [MiddlePhalanxTW/fcn] ê≥â 76/154 (acc=49.35%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 10, 23, 56, 65, 82, 84, 87, 93, 118]
+(47/85) [MiddlePhalanxTW/resnet] ê≥â 75/154 (acc=48.70%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 12, 27, 29, 56, 65, 114, 119, 122, 137]
+(48/85) [MoteStrain/fcn] ê≥â 1160/1252 (acc=92.65%) -> ÉTÉìÉvÉäÉìÉO 10åè: [52, 181, 185, 351, 461, 516, 758, 823, 974, 1243]
+(48/85) [MoteStrain/resnet] ê≥â 1159/1252 (acc=92.57%) -> ÉTÉìÉvÉäÉìÉO 10åè: [119, 186, 284, 319, 588, 639, 769, 809, 1015, 1127]
+(49/85) [NonInvasiveFetalECGThorax1/fcn] ê≥â 1885/1965 (acc=95.93%) -> ÉTÉìÉvÉäÉìÉO 10åè: [280, 318, 396, 427, 480, 619, 954, 1095, 1117, 1809]
+(49/85) [NonInvasiveFetalECGThorax1/resnet] ê≥â 1872/1965 (acc=95.27%) -> ÉTÉìÉvÉäÉìÉO 10åè: [212, 257, 286, 334, 401, 434, 1086, 1284, 1529, 1783]
+(50/85) [NonInvasiveFetalECGThorax2/fcn] ê≥â 1873/1965 (acc=95.32%) -> ÉTÉìÉvÉäÉìÉO 10åè: [216, 261, 289, 340, 403, 436, 1083, 1252, 1529, 1783]
+(50/85) [NonInvasiveFetalECGThorax2/resnet] ê≥â 1868/1965 (acc=95.06%) -> ÉTÉìÉvÉäÉìÉO 10åè: [211, 255, 283, 333, 398, 431, 964, 1738, 1769, 1787]
+(51/85) [OSULeaf/fcn] ê≥â 238/242 (acc=98.35%) -> ÉTÉìÉvÉäÉìÉO 10åè: [6, 9, 15, 115, 118, 129, 173, 216, 225, 226]
+(51/85) [OSULeaf/resnet] ê≥â 237/242 (acc=97.93%) -> ÉTÉìÉvÉäÉìÉO 10åè: [6, 9, 16, 115, 118, 130, 174, 216, 225, 226]
+(52/85) [OliveOil/fcn] ê≥â 23/30 (acc=76.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [1, 2, 3, 6, 9, 10, 18, 19, 21, 23]
+(52/85) [OliveOil/resnet] ê≥â 26/30 (acc=86.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 1, 5, 8, 9, 11, 13, 19, 26, 27]
+(53/85) [PhalangesOutlinesCorrect/fcn] ê≥â 699/858 (acc=81.47%) -> ÉTÉìÉvÉäÉìÉO 10åè: [212, 215, 281, 305, 366, 380, 412, 459, 512, 632]
+(53/85) [PhalangesOutlinesCorrect/resnet] ê≥â 707/858 (acc=82.40%) -> ÉTÉìÉvÉäÉìÉO 10åè: [115, 119, 176, 282, 327, 415, 420, 422, 514, 609]
+(54/85) [Phoneme/fcn] ê≥â 615/1896 (acc=32.44%) -> ÉTÉìÉvÉäÉìÉO 10åè: [25, 213, 384, 586, 838, 883, 1200, 1427, 1826, 1882]
+(54/85) [Phoneme/resnet] ê≥â 608/1896 (acc=32.07%) -> ÉTÉìÉvÉäÉìÉO 10åè: [75, 241, 242, 259, 374, 705, 719, 874, 1529, 1690]
+(55/85) [Plane/fcn] ê≥â 105/105 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 10, 30, 45, 47, 53, 64, 65, 94, 104]
+(55/85) [Plane/resnet] ê≥â 105/105 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 10, 30, 45, 47, 53, 64, 65, 94, 104]
+(56/85) [ProximalPhalanxOutlineAgeGroup/fcn] ê≥â 175/205 (acc=85.37%) -> ÉTÉìÉvÉäÉìÉO 10åè: [17, 48, 83, 126, 152, 153, 167, 169, 173, 184]
+(56/85) [ProximalPhalanxOutlineAgeGroup/resnet] ê≥â 170/205 (acc=82.93%) -> ÉTÉìÉvÉäÉìÉO 10åè: [38, 39, 71, 83, 136, 150, 172, 177, 197, 200]
+(57/85) [ProximalPhalanxOutlineCorrect/fcn] ê≥â 260/291 (acc=89.35%) -> ÉTÉìÉvÉäÉìÉO 10åè: [10, 33, 153, 190, 194, 200, 204, 234, 251, 289]
+(57/85) [ProximalPhalanxOutlineCorrect/resnet] ê≥â 262/291 (acc=90.03%) -> ÉTÉìÉvÉäÉìÉO 10åè: [10, 69, 121, 148, 184, 194, 216, 239, 276, 289]
+(58/85) [ProximalPhalanxTW/fcn] ê≥â 157/205 (acc=76.59%) -> ÉTÉìÉvÉäÉìÉO 10åè: [38, 56, 117, 118, 121, 136, 158, 166, 172, 173]
+(58/85) [ProximalPhalanxTW/resnet] ê≥â 156/205 (acc=76.10%) -> ÉTÉìÉvÉäÉìÉO 10åè: [39, 86, 95, 103, 118, 120, 122, 147, 169, 179]
+(59/85) [RefrigerationDevices/fcn] ê≥â 190/375 (acc=50.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [14, 35, 36, 99, 155, 173, 197, 235, 324, 343]
+(59/85) [RefrigerationDevices/resnet] ê≥â 191/375 (acc=50.93%) -> ÉTÉìÉvÉäÉìÉO 10åè: [14, 35, 36, 88, 94, 103, 188, 192, 243, 263]
+(60/85) [ScreenType/fcn] ê≥â 231/375 (acc=61.60%) -> ÉTÉìÉvÉäÉìÉO 10åè: [9, 15, 28, 93, 190, 228, 251, 293, 299, 347]
+(60/85) [ScreenType/resnet] ê≥â 237/375 (acc=63.20%) -> ÉTÉìÉvÉäÉìÉO 10åè: [6, 9, 24, 169, 177, 196, 257, 327, 346, 347]
+(61/85) [ShapeletSim/fcn] ê≥â 111/180 (acc=61.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [19, 33, 39, 99, 114, 133, 137, 147, 153, 165]
+(61/85) [ShapeletSim/resnet] ê≥â 159/180 (acc=88.33%) -> ÉTÉìÉvÉäÉìÉO 10åè: [33, 63, 67, 92, 109, 114, 144, 159, 166, 176]
+(62/85) [ShapesAll/fcn] ê≥â 538/600 (acc=89.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [79, 83, 94, 97, 377, 406, 481, 512, 544, 573]
+(62/85) [ShapesAll/resnet] ê≥â 549/600 (acc=91.50%) -> ÉTÉìÉvÉäÉìÉO 10åè: [82, 89, 114, 140, 206, 394, 398, 521, 527, 538]
+(63/85) [SmallKitchenAppliances/fcn] ê≥â 294/375 (acc=78.40%) -> ÉTÉìÉvÉäÉìÉO 10åè: [10, 35, 45, 123, 124, 140, 170, 254, 330, 362]
+(63/85) [SmallKitchenAppliances/resnet] ê≥â 296/375 (acc=78.93%) -> ÉTÉìÉvÉäÉìÉO 10åè: [9, 45, 92, 94, 102, 183, 326, 344, 348, 358]
+(64/85) [SonyAIBORobotSurface1/fcn] ê≥â 579/601 (acc=96.34%) -> ÉTÉìÉvÉäÉìÉO 10åè: [72, 89, 258, 370, 419, 428, 470, 486, 544, 582]
+(64/85) [SonyAIBORobotSurface1/resnet] ê≥â 583/601 (acc=97.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [94, 115, 138, 279, 369, 370, 418, 423, 505, 514]
+(65/85) [SonyAIBORobotSurface2/fcn] ê≥â 925/953 (acc=97.06%) -> ÉTÉìÉvÉäÉìÉO 10åè: [31, 65, 171, 222, 303, 332, 567, 847, 889, 902]
+(65/85) [SonyAIBORobotSurface2/resnet] ê≥â 936/953 (acc=98.22%) -> ÉTÉìÉvÉäÉìÉO 10åè: [71, 87, 97, 212, 328, 334, 477, 542, 669, 699]
+[StarLightCurves/fcn] ÉGÉâÅ[ÇÃÇΩÇﬂÉXÉLÉbÉv: Exception encountered when calling BatchNormalization.call().
+
+[1m{{function_node __wrapped__AddV2_device_/job:localhost/replica:0/task:0/device:CPU:0}} OOM when allocating tensor with shape[8236,1024,128] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu [Op:AddV2] name: [0m
+
+Arguments received by BatchNormalization.call():
+  ? inputs=tf.Tensor(shape=(8236, 1024, 128), dtype=float32)
+  ? training=False
+  ? mask=NoneWARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2026-08-05 10:39:21.278119: W external/local_xla/xla/tsl/framework/bfc_allocator.cc:501] Allocator (mklcpu) ran out of memory trying to allocate 2.01GiB (rounded to 2159017984)requested by op BiasAdd
+If the cause is memory fragmentation maybe the environment variable 'TF_GPU_ALLOCATOR=cuda_malloc_async' will improve the situation. 
+Current allocation summary follows.
+Current allocation summary follows.
+2026-08-05 10:39:21.278316: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1058] BFCAllocator dump for mklcpu
+2026-08-05 10:39:21.278374: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (256): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278403: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (512): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278432: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (1024): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278475: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (2048): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278480: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (4096): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278485: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (8192): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278489: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (16384): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278494: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (32768): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278499: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (65536): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278522: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (131072): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.278531: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (262144): 	Total Chunks: 6, Chunks in use: 4. 1.88MiB allocated for chunks. 1.25MiB in use in bin. 1.25MiB client-requested in use in bin.
+2026-08-05 10:39:21.279389: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (524288): 	Total Chunks: 1, Chunks in use: 1. 768.0KiB allocated for chunks. 768.0KiB in use in bin. 640.0KiB client-requested in use in bin.
+2026-08-05 10:39:21.279436: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (1048576): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280626: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (2097152): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280685: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (4194304): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280713: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (8388608): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280743: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (16777216): 	Total Chunks: 0, Chunks in use: 0. 0B allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280780: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (33554432): 	Total Chunks: 1, Chunks in use: 0. 63.38MiB allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280810: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (67108864): 	Total Chunks: 1, Chunks in use: 0. 64.00MiB allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280841: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (134217728): 	Total Chunks: 1, Chunks in use: 0. 128.00MiB allocated for chunks. 0B in use in bin. 0B client-requested in use in bin.
+2026-08-05 10:39:21.280875: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1065] Bin (268435456): 	Total Chunks: 20, Chunks in use: 12. 63.75GiB allocated for chunks. 52.28GiB in use in bin. 52.28GiB client-requested in use in bin.
+2026-08-05 10:39:21.280906: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1081] Bin for 2.01GiB was 256.00MiB, Chunk State: 
+2026-08-05 10:39:21.280942: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 256.00MiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:39:21.280968: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 512.00MiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:39:21.280993: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 1.00GiB | Requested Size: 65.92MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:39:21.281026: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 1.84GiB | Requested Size: 512.0KiB | in_use: 0 | bin_num: 20, prev:   Size: 2.01GiB | Requested Size: 2.01GiB | in_use: 1 | bin_num: -1
+2026-08-05 10:39:21.281055: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 1.92GiB | Requested Size: 512.0KiB | in_use: 0 | bin_num: 20, prev:   Size: 2.01GiB | Requested Size: 2.01GiB | in_use: 1 | bin_num: -1
+2026-08-05 10:39:21.281084: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 1.97GiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20, prev:   Size: 2.01GiB | Requested Size: 2.01GiB | in_use: 1 | bin_num: -1
+2026-08-05 10:39:21.282032: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 1.99GiB | Requested Size: 30.25MiB | in_use: 0 | bin_num: 20, prev:   Size: 2.01GiB | Requested Size: 2.01GiB | in_use: 1 | bin_num: -1
+2026-08-05 10:39:21.282113: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1087]   Size: 2.00GiB | Requested Size: 131.84MiB | in_use: 0 | bin_num: 20
+2026-08-05 10:39:21.282148: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 2097152
+2026-08-05 10:39:21.282163: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d72e02e080 of size 786432 next 21
+2026-08-05 10:39:21.282171: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d72e0ee080 of size 262144 next 44
+2026-08-05 10:39:21.282179: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d72e12e080 of size 262144 next 39
+2026-08-05 10:39:21.282186: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d72e16e080 of size 393216 next 23
+2026-08-05 10:39:21.282195: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d72e1ce080 of size 393216 next 18446744073709551615
+2026-08-05 10:39:21.282202: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 67108864
+2026-08-05 10:39:21.282210: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d72e239080 of size 327680 next 24
+2026-08-05 10:39:21.282218: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d72e289080 of size 327680 next 31
+2026-08-05 10:39:21.282225: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d72e2d9080 of size 66453504 next 18446744073709551615
+2026-08-05 10:39:21.282233: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 67108864
+2026-08-05 10:39:21.282241: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d73245c080 of size 67108864 next 18446744073709551615
+2026-08-05 10:39:21.282249: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 134217728
+2026-08-05 10:39:21.282256: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d73667d080 of size 134217728 next 18446744073709551615
+2026-08-05 10:39:21.282264: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 268435456
+2026-08-05 10:39:21.282272: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d73ea9c080 of size 268435456 next 18446744073709551615
+2026-08-05 10:39:21.282279: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 536870912
+2026-08-05 10:39:21.282287: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d750488080 of size 536870912 next 18446744073709551615
+2026-08-05 10:39:21.282294: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 1073741824
+2026-08-05 10:39:21.282302: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d78000e080 of size 1073741824 next 18446744073709551615
+2026-08-05 10:39:21.282310: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 2147483648
+2026-08-05 10:39:21.282317: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d7c001f080 of size 2147483648 next 18446744073709551615
+2026-08-05 10:39:21.282325: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 4294967296
+2026-08-05 10:39:21.282333: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d84003b080 of size 2159017984 next 10
+2026-08-05 10:39:21.282340: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1d8c0b3b080 of size 2135949312 next 18446744073709551615
+2026-08-05 10:39:21.282348: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 8589934592
+2026-08-05 10:39:21.282356: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1d948059080 of size 4318035968 next 53
+2026-08-05 10:39:21.282405: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1da49659080 of size 2159017984 next 49
+2026-08-05 10:39:21.282418: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1daca159080 of size 2112880640 next 18446744073709551615
+2026-08-05 10:39:21.282427: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 17179869184
+2026-08-05 10:39:21.282435: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1db5807b080 of size 4318035968 next 11
+2026-08-05 10:39:21.282442: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1dc5967b080 of size 4318035968 next 33
+2026-08-05 10:39:21.282449: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1dd5ac7b080 of size 4318035968 next 19
+2026-08-05 10:39:21.282456: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1de5c27b080 of size 2159017984 next 32
+2026-08-05 10:39:21.282464: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1dedcd7b080 of size 2066743296 next 18446744073709551615
+2026-08-05 10:39:21.282471: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1094] Next region of size 34357641216
+2026-08-05 10:39:21.282479: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1df78096080 of size 8636071936 next 35
+2026-08-05 10:39:21.282486: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1e17ac96080 of size 8636071936 next 36
+2026-08-05 10:39:21.282493: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1e37d896080 of size 8636071936 next 28
+2026-08-05 10:39:21.282528: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1e580496080 of size 4318035968 next 7
+2026-08-05 10:39:21.282549: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] InUse at 1e681a96080 of size 2159017984 next 22
+2026-08-05 10:39:21.282570: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1114] Free  at 1e702596080 of size 1972371456 next 18446744073709551615
+2026-08-05 10:39:21.282590: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1119]      Summary of in-use Chunks by size: 
+2026-08-05 10:39:21.282625: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 1 Chunks of size 262144 totalling 256.0KiB
+2026-08-05 10:39:21.282649: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 2 Chunks of size 327680 totalling 640.0KiB
+2026-08-05 10:39:21.282674: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 1 Chunks of size 393216 totalling 384.0KiB
+2026-08-05 10:39:21.282699: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 1 Chunks of size 786432 totalling 768.0KiB
+2026-08-05 10:39:21.282724: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 4 Chunks of size 2159017984 totalling 8.04GiB
+2026-08-05 10:39:21.282748: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 5 Chunks of size 4318035968 totalling 20.11GiB
+2026-08-05 10:39:21.282773: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1122] 3 Chunks of size 8636071936 totalling 24.13GiB
+2026-08-05 10:39:21.282796: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1126] Sum Total of in-use chunks: 52.28GiB
+2026-08-05 10:39:21.282828: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1128] Total bytes in pool: 68719476736 memory_limit_: 68719476736 available bytes: 0 curr_region_allocation_bytes_: 68719476736
+2026-08-05 10:39:21.282871: I external/local_xla/xla/tsl/framework/bfc_allocator.cc:1133] Stats: 
+Limit:                     68719476736
+InUse:                     56136564736
+MaxInUse:                  56136564736
+NumAllocs:                        6491
+MaxAllocSize:               8636071936
+Reserved:                            0
+PeakReserved:                        0
+LargestFreeBlock:                    0
+
+2026-08-05 10:39:21.282922: W external/local_xla/xla/tsl/framework/bfc_allocator.cc:512] *_____****__**********___**********************___************************************************__
+2026-08-05 10:39:21.283619: W tensorflow/core/framework/op_kernel.cc:1857] OP_REQUIRES failed at bias_op.cc:128 : RESOURCE_EXHAUSTED: OOM when allocating tensor with shape[8236,1024,64] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu
+2026-08-05 10:39:21.283742: I tensorflow/core/framework/local_rendezvous.cc:407] Local rendezvous is aborting with status: RESOURCE_EXHAUSTED: OOM when allocating tensor with shape[8236,1024,64] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+
+[StarLightCurves/resnet] ÉGÉâÅ[ÇÃÇΩÇﬂÉXÉLÉbÉv: Exception encountered when calling Conv1D.call().
+
+[1m{{function_node __wrapped__BiasAdd_device_/job:localhost/replica:0/task:0/device:CPU:0}} OOM when allocating tensor with shape[8236,1024,64] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu [Op:BiasAdd] name: [0m
+
+Arguments received by Conv1D.call():
+  ? inputs=tf.Tensor(shape=(8236, 1024, 64), dtype=float32)
+(67/85) [Strawberry/fcn] ê≥â 361/370 (acc=97.57%) -> ÉTÉìÉvÉäÉìÉO 10åè: [15, 33, 57, 76, 124, 131, 168, 187, 276, 331]
+(67/85) [Strawberry/resnet] ê≥â 362/370 (acc=97.84%) -> ÉTÉìÉvÉäÉìÉO 10åè: [15, 33, 57, 76, 122, 129, 166, 185, 275, 330]
+(68/85) [SwedishLeaf/fcn] ê≥â 607/625 (acc=97.12%) -> ÉTÉìÉvÉäÉìÉO 10åè: [11, 77, 79, 87, 134, 186, 296, 458, 509, 580]
+(68/85) [SwedishLeaf/resnet] ê≥â 599/625 (acc=95.84%) -> ÉTÉìÉvÉäÉìÉO 10åè: [11, 79, 80, 116, 189, 296, 361, 438, 490, 588]
+(69/85) [Symbols/fcn] ê≥â 944/995 (acc=94.87%) -> ÉTÉìÉvÉäÉìÉO 10åè: [24, 31, 98, 270, 276, 292, 337, 345, 596, 850]
+(69/85) [Symbols/resnet] ê≥â 913/995 (acc=91.76%) -> ÉTÉìÉvÉäÉìÉO 10åè: [33, 384, 386, 392, 412, 528, 597, 642, 760, 927]
+(70/85) [SyntheticControl/fcn] ê≥â 296/300 (acc=98.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [9, 42, 82, 84, 92, 156, 264, 277, 280, 285]
+(70/85) [SyntheticControl/resnet] ê≥â 299/300 (acc=99.67%) -> ÉTÉìÉvÉäÉìÉO 10åè: [5, 9, 77, 93, 109, 164, 173, 266, 279, 282]
+(71/85) [ToeSegmentation1/fcn] ê≥â 220/228 (acc=96.49%) -> ÉTÉìÉvÉäÉìÉO 10åè: [17, 78, 99, 121, 138, 148, 155, 180, 188, 217]
+(71/85) [ToeSegmentation1/resnet] ê≥â 218/228 (acc=95.61%) -> ÉTÉìÉvÉäÉìÉO 10åè: [17, 78, 108, 147, 148, 163, 180, 188, 217, 225]
+(72/85) [ToeSegmentation2/fcn] ê≥â 121/130 (acc=93.08%) -> ÉTÉìÉvÉäÉìÉO 10åè: [4, 11, 27, 41, 45, 48, 57, 66, 78, 114]
+(72/85) [ToeSegmentation2/resnet] ê≥â 116/130 (acc=89.23%) -> ÉTÉìÉvÉäÉìÉO 10åè: [4, 12, 13, 41, 45, 47, 54, 80, 94, 124]
+(73/85) [Trace/fcn] ê≥â 100/100 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 10, 22, 39, 44, 45, 53, 70, 80, 83]
+(73/85) [Trace/resnet] ê≥â 100/100 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 10, 22, 39, 44, 45, 53, 70, 80, 83]
+(74/85) [TwoLeadECG/fcn] ê≥â 1139/1139 (acc=100.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [56, 109, 240, 289, 332, 526, 752, 788, 904, 1040]
+(74/85) [TwoLeadECG/resnet] ê≥â 1138/1139 (acc=99.91%) -> ÉTÉìÉvÉäÉìÉO 10åè: [56, 109, 240, 289, 332, 526, 752, 788, 905, 1041]
+(75/85) [TwoPatterns/fcn] ê≥â 3476/4000 (acc=86.90%) -> ÉTÉìÉvÉäÉìÉO 10åè: [59, 351, 1640, 2039, 2200, 2377, 2469, 2489, 2613, 3481]
+(75/85) [TwoPatterns/resnet] ê≥â 3967/4000 (acc=99.17%) -> ÉTÉìÉvÉäÉìÉO 10åè: [317, 320, 602, 1407, 2174, 2349, 3124, 3204, 3318, 3721]
+(76/85) [UWaveGestureLibraryAll/fcn] ê≥â 2935/3582 (acc=81.94%) -> ÉTÉìÉvÉäÉìÉO 10åè: [341, 488, 936, 955, 1421, 2000, 2556, 2713, 2883, 3351]
+(76/85) [UWaveGestureLibraryAll/resnet] ê≥â 3028/3582 (acc=84.53%) -> ÉTÉìÉvÉäÉìÉO 10åè: [63, 203, 246, 300, 312, 485, 560, 1421, 1525, 2789]
+(77/85) [UWaveGestureLibraryX/fcn] ê≥â 2710/3582 (acc=75.66%) -> ÉTÉìÉvÉäÉìÉO 10åè: [406, 431, 594, 670, 1398, 1802, 2043, 2584, 3278, 3552]
+(77/85) [UWaveGestureLibraryX/resnet] ê≥â 2739/3582 (acc=76.47%) -> ÉTÉìÉvÉäÉìÉO 10åè: [399, 487, 525, 858, 1692, 1770, 2740, 2893, 2965, 3076]
+(78/85) [UWaveGestureLibraryY/fcn] ê≥â 2291/3582 (acc=63.96%) -> ÉTÉìÉvÉäÉìÉO 10åè: [80, 567, 2002, 2005, 2487, 2664, 3162, 3176, 3409, 3461]
+(78/85) [UWaveGestureLibraryY/resnet] ê≥â 2346/3582 (acc=65.49%) -> ÉTÉìÉvÉäÉìÉO 10åè: [183, 548, 1031, 1261, 1663, 2043, 2169, 2257, 2917, 3050]
+(79/85) [UWaveGestureLibraryZ/fcn] ê≥â 2597/3582 (acc=72.50%) -> ÉTÉìÉvÉäÉìÉO 10åè: [287, 1087, 1093, 1095, 1139, 1249, 2274, 2377, 2405, 2937]
+(79/85) [UWaveGestureLibraryZ/resnet] ê≥â 2682/3582 (acc=74.87%) -> ÉTÉìÉvÉäÉìÉO 10åè: [231, 287, 571, 1225, 1997, 2178, 2209, 3181, 3365, 3520]
+(80/85) [Wafer/fcn] ê≥â 6148/6164 (acc=99.74%) -> ÉTÉìÉvÉäÉìÉO 10åè: [412, 2339, 3022, 3237, 3698, 4038, 4351, 5166, 5651, 5757]
+(80/85) [Wafer/resnet] ê≥â 6149/6164 (acc=99.76%) -> ÉTÉìÉvÉäÉìÉO 10åè: [411, 1218, 1829, 2806, 3850, 4787, 4999, 5252, 5852, 6146]
+(81/85) [Wine/fcn] ê≥â 27/54 (acc=50.00%) -> ÉTÉìÉvÉäÉìÉO 10åè: [27, 35, 36, 38, 39, 40, 43, 44, 48, 51]
+(81/85) [Wine/resnet] ê≥â 33/54 (acc=61.11%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 8, 9, 12, 15, 17, 19, 21, 26, 52]
+(82/85) [WordSynonyms/fcn] ê≥â 357/638 (acc=55.96%) -> ÉTÉìÉvÉäÉìÉO 10åè: [30, 82, 111, 112, 225, 399, 430, 515, 531, 596]
+(82/85) [WordSynonyms/resnet] ê≥â 398/638 (acc=62.38%) -> ÉTÉìÉvÉäÉìÉO 10åè: [48, 141, 153, 154, 202, 322, 343, 366, 600, 633]
+(83/85) [Worms/fcn] ê≥â 60/77 (acc=77.92%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 7, 18, 19, 42, 45, 56, 59, 69, 72]
+(83/85) [Worms/resnet] ê≥â 63/77 (acc=81.82%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 6, 14, 18, 27, 40, 48, 69, 72, 75]
+(84/85) [WormsTwoClass/fcn] ê≥â 59/77 (acc=76.62%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 7, 16, 17, 33, 44, 57, 59, 70, 75]
+(84/85) [WormsTwoClass/resnet] ê≥â 56/77 (acc=72.73%) -> ÉTÉìÉvÉäÉìÉO 10åè: [0, 6, 15, 16, 23, 32, 48, 51, 59, 71]
+(85/85) [Yoga/fcn] ê≥â 2507/3000 (acc=83.57%) -> ÉTÉìÉvÉäÉìÉO 10åè: [62, 194, 971, 993, 1135, 1194, 1554, 1921, 2548, 2966]
+(85/85) [Yoga/resnet] ê≥â 2564/3000 (acc=85.47%) -> ÉTÉìÉvÉäÉìÉO 10åè: [203, 556, 1288, 1523, 1770, 1872, 1934, 2080, 2318, 2726]
+
+ï€ë∂äÆóπ: output/correct_samples_all.json
+ÉGÉâÅ[åèêî: 2
+  StarLightCurves/fcn: Exception encountered when calling BatchNormalization.call().
+
+[1m{{function_node __wrapped__AddV2_device_/job:localhost/replica:0/task:0/device:CPU:0}} OOM when allocating tensor with shape[8236,1024,128] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu [Op:AddV2] name: [0m
+
+Arguments received by BatchNormalization.call():
+  ? inputs=tf.Tensor(shape=(8236, 1024, 128), dtype=float32)
+  ? training=False
+  ? mask=None
+  StarLightCurves/resnet: Exception encountered when calling Conv1D.call().
+
+[1m{{function_node __wrapped__BiasAdd_device_/job:localhost/replica:0/task:0/device:CPU:0}} OOM when allocating tensor with shape[8236,1024,64] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator mklcpu [Op:BiasAdd] name: [0m
+
+Arguments received by Conv1D.call():
+  ? inputs=tf.Tensor(shape=(8236, 1024, 64), dtype=float32)
